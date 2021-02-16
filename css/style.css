@@ -363,6 +363,7 @@ figure {
   position: relative;
   float: left;
   width: 100%;
+ display:inline-block;
 }
 
 #fh5co-logo {
